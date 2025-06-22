@@ -1,0 +1,457 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Magical_Pet_Kindom_Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  D_Pets.cpp
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,133): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,137): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.h(65,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(112,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(113,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(139,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(140,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(141,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(146,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(155,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(156,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(173,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(174,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(176,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Filling.cpp
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,133): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,137): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.h(65,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(112,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(113,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(139,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(140,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(141,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(146,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(155,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(156,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(173,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(174,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(176,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Player.h(408,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Player.h(408,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Filling.h(114,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Helper.cpp
+  Menu.cpp
+D:\VisualStudio\SFML_Setup\Menu.cpp(26,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Menu.cpp(25,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Menu.cpp(36,60): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(60,86): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(60,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(108,48): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(129,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(129,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(191,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VisualStudio\SFML_Setup\Menu.cpp(287,35): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Object.cpp
+D:\VisualStudio\SFML_Setup\Object.cpp(200,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(200,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(229,55): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(229,47): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(279,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(279,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(279,41): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(279,35): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(290,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Object.cpp(290,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pet.cpp
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,133): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,137): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.h(65,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(112,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(113,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(139,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(140,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(141,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(146,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(155,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(156,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(173,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(174,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(176,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.cpp(131,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.cpp(131,41): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.cpp(203,55): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.cpp(203,47): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.cpp(215,17): warning C4305: '+=': truncation from 'double' to 'float'
+D:\VisualStudio\SFML_Setup\Pet.cpp(223,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.cpp(229,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.cpp(231,37): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.cpp(233,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.cpp(297,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.cpp(302,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Projectiles.cpp
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,133): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,137): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.h(65,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(112,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(113,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(139,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(140,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(141,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(146,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(155,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(156,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(173,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(174,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(176,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.cpp(195,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.cpp(235,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.cpp(272,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Ring.cpp
+D:\VisualStudio\SFML_Setup\Ring.cpp(17,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Source.cpp
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(13,133): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Projectiles.h(37,137): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Pet.h(65,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,58): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(100,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(112,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(113,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(139,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(140,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(141,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(146,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(155,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(156,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(173,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(174,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Pet.h(176,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Player.h(408,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Player.h(408,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Filling.h(114,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VisualStudio\SFML_Setup\Bot.h(97,24): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(27,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(27,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(28,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(28,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(29,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(29,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(30,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(30,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(258,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(358,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Battle.h(456,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(459,195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(460,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(464,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(464,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(471,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(471,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(476,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(476,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(481,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(481,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(488,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Battle.h(488,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(22,60): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(43,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(107,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(114,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(114,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(121,96): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(121,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Training.h(137,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(139,126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(148,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(160,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(160,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(161,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(161,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(162,121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(162,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(163,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(163,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(164,123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Training.h(164,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudio\SFML_Setup\Source.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VisualStudio\SFML_Setup\Source.cpp(248,126): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Source.cpp(248,105): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Source.cpp(492,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Source.cpp(492,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Source.cpp(518,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudio\SFML_Setup\Source.cpp(518,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 783 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Magical_Pet_Kindom_Game.vcxproj -> D:\VisualStudio\SFML_Setup\x64\Release\SFML_setup.exe

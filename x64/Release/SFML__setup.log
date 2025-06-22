@@ -1,0 +1,2 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Magical_Pet_Kindom_Game.vcxproj, SFML_setup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SFML__setup.vcxproj -> D:\VisualStudio\SFML__setup\x64\Release\SFML__setup.exe
